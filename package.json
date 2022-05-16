@@ -1,0 +1,15 @@
+{
+  "name": "node-mongodb-connection",
+  "version": "1.0.0",
+  "description": "Node app that connects to MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arpan Neupane",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.3"
+  }
+}
